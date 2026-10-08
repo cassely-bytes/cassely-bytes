@@ -47,17 +47,6 @@ I'm passionate about building things, learning new technologies, and turning ide
 | Project | Description | Tech |
 |---|---|---|
 | 🚧 Coming Soon | A project I'm currently building | `TBD` |
-| 🚧 Coming Soon | Another project in progress | `TBD` |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cassely-bytes&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassely-bytes&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ---
 
 ## 🌱 Currently Learning
