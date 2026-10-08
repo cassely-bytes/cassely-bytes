@@ -42,11 +42,19 @@ I'm passionate about building things, learning new technologies, and turning ide
 
 ## 📌 Featured Projects
 
-> My best projects will live here.
+> Blotter and Incident Report System
 
-| Project | Description | Tech |
-|---|---|---|
-| 🚧 Coming Soon | A project I'm currently building | `TBD` |
+A web-based system designed to record, manage,
+and track blotter entries and incident reports.
+
+Tech Stack:
+HTML · CSS · MySQL · JS
+
+📝 Create and manage blotter records
+🚨 Record incident reports
+🔍 Search and view records
+✏️ Update existing reports
+
 ---
 
 ## 🌱 Currently Learning
